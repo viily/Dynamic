@@ -1,0 +1,13 @@
+E:\RusGidro_BI_Portal\sdk\csharp\Permissions\obj\Debug\ResolveAssemblyReference.cache
+E:\RusGidro_BI_Portal\sdk\csharp\Permissions\obj\Debug\AddGroup.MainDlg.resources
+E:\RusGidro_BI_Portal\sdk\csharp\Permissions\obj\Debug\CreateGroups.csproj.GenerateResource.Cache
+E:\RusGidro_BI_Portal\sdk\csharp\Permissions\obj\Debug\Permissions.exe
+E:\RusGidro_BI_Portal\sdk\csharp\Permissions\obj\Debug\Permissions.pdb
+E:\RusGidro_BI_Portal\sdk\csharp\Permissions\bin\Debug\Permissions.exe
+E:\RusGidro_BI_Portal\sdk\csharp\Permissions\bin\Debug\Permissions.pdb
+E:\RusGidro_BI_Portal\sdk\csharp\Permissions\bin\Debug\cognosdotnet_2_0.dll
+E:\RusGidro_BI_Portal\sdk\csharp\Permissions\bin\Debug\cognosdotnetassembly_2_0.dll
+E:\RusGidro_BI_Portal\sdk\csharp\Permissions\bin\Debug\SamplesCommon.dll
+E:\RusGidro_BI_Portal\sdk\csharp\Permissions\bin\Debug\SamplesCommon.pdb
+C:\Documents and Settings\aivanchin\Desktop\UserToGroupImport\obj\Debug\Permissions.exe
+C:\Documents and Settings\aivanchin\Desktop\UserToGroupImport\obj\Debug\Permissions.pdb

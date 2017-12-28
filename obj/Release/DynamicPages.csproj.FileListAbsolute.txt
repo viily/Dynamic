@@ -1,0 +1,4 @@
+C:\Public\gmcs\Скрипты для BI SDK\DynamicPages\obj\Release\ResolveAssemblyReference.cache
+C:\Public\gmcs\Скрипты для BI SDK\DynamicPages\obj\Release\DynamicPages.MainDlg.resources
+C:\Public\gmcs\Скрипты для BI SDK\DynamicPages\obj\Release\DynamicPages.openBiObjDlg.resources
+C:\Public\gmcs\Скрипты для BI SDK\DynamicPages\obj\Release\DynamicPages.csproj.GenerateResource.Cache

@@ -1,0 +1,13 @@
+C:\Documents and Settings\aivanchin\Desktop\UserToGroupImport\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aivanchin\Desktop\UserToGroupImport\obj\Debug\AddGroup.MainDlg.resources
+C:\Documents and Settings\aivanchin\Desktop\UserToGroupImport\obj\Debug\UserToGroupImport.csproj.GenerateResource.Cache
+C:\Documents and Settings\aivanchin\Desktop\UserToGroupImport\obj\Debug\Permissions.exe
+C:\Documents and Settings\aivanchin\Desktop\UserToGroupImport\bin\Debug\Permissions.exe
+C:\Documents and Settings\aivanchin\Desktop\UserToGroupImport\bin\Debug\Permissions.pdb
+C:\Documents and Settings\aivanchin\Desktop\UserToGroupImport\bin\Debug\SamplesCommon.dll
+C:\Documents and Settings\aivanchin\Desktop\UserToGroupImport\bin\Debug\SamplesCommon.pdb
+C:\Documents and Settings\aivanchin\Desktop\UserToGroupImport\obj\Debug\Permissions.pdb
+C:\Public\gmcs\Скрипты для BI SDK\UserToGroupImport\obj\Debug\Permissions.exe
+C:\Public\gmcs\Скрипты для BI SDK\UserToGroupImport\obj\Debug\Permissions.pdb
+C:\Public\gmcs\Скрипты для BI SDK\DynamicPages\obj\Debug\Permissions.exe
+C:\Public\gmcs\Скрипты для BI SDK\DynamicPages\obj\Debug\Permissions.pdb

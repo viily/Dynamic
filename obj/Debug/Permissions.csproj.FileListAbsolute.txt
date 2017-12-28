@@ -1,0 +1,11 @@
+E:\RusGidro_BI_Portal\sdk\csharp\Permissions\obj\Debug\ResolveAssemblyReference.cache
+E:\RusGidro_BI_Portal\sdk\csharp\Permissions\obj\Debug\Permissions.PermissionsDlg.resources
+E:\RusGidro_BI_Portal\sdk\csharp\Permissions\obj\Debug\Permissions.csproj.GenerateResource.Cache
+E:\RusGidro_BI_Portal\sdk\csharp\Permissions\bin\Debug\Permissions.exe
+E:\RusGidro_BI_Portal\sdk\csharp\Permissions\bin\Debug\Permissions.pdb
+E:\RusGidro_BI_Portal\sdk\csharp\Permissions\bin\Debug\cognosdotnet_2_0.dll
+E:\RusGidro_BI_Portal\sdk\csharp\Permissions\bin\Debug\cognosdotnetassembly_2_0.dll
+E:\RusGidro_BI_Portal\sdk\csharp\Permissions\bin\Debug\SamplesCommon.dll
+E:\RusGidro_BI_Portal\sdk\csharp\Permissions\bin\Debug\SamplesCommon.pdb
+E:\RusGidro_BI_Portal\sdk\csharp\Permissions\obj\Debug\Permissions.exe
+E:\RusGidro_BI_Portal\sdk\csharp\Permissions\obj\Debug\Permissions.pdb
