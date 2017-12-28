@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Permissions">
+</Property><Property Name="Solution File" Value="E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Permissions.sln">
+</Property><Property Name="Date" Value="Friday, October 28, 2011">
+</Property><Property Name="Time" Value="12:19 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Permissions.sln" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\Permissions.sln">
+</Event><Event ErrorLevel="0" Project="Permissions" Source="Permissions.csproj" Description="Project file successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\Permissions.csproj">
+</Event><Event ErrorLevel="0" Project="Permissions" Source="AssemblyInfo.cs" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Permissions" Source="Permissions.cs" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\Permissions.cs">
+</Event><Event ErrorLevel="0" Project="Permissions" Source="PermissionsDlg.cs" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\PermissionsDlg.cs">
+</Event><Event ErrorLevel="0" Project="Permissions" Source="PermissionsDlg.resx" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\PermissionsDlg.resx">
+</Event><Event ErrorLevel="0" Project="Permissions" Source="Permissions.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Permissions" Source="Permissions.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="SamplesCommon" Source="..\SamplesCommon\SamplesCommon.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\SamplesCommon.csproj" Description="Project file successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\SamplesCommon.csproj">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\AssemblyInfo.cs" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\BaseClassWrapper.cs" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\BaseClassWrapper.cs">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\CommonFunctions.cs" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\CommonFunctions.cs">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\CRN_Patch_3147881.cs" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\CRN_Patch_3147881.cs">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\SamplesAbout.cs" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\SamplesAbout.cs">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\SamplesConnect.cs" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\SamplesConnect.cs">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\SamplesException.cs" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\SamplesException.cs">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\SamplesExceptionHelper.cs" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\SamplesExceptionHelper.cs">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\SamplesHeaderExceptionHelper.cs" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\SamplesHeaderExceptionHelper.cs">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\SamplesInput.cs" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\SamplesInput.cs">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\SamplesListInput.cs" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\SamplesListInput.cs">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\SamplesLogon.cs" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\SamplesLogon.cs">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\SamplesPath.cs" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\SamplesPath.cs">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\SamplesWindow.cs" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\SamplesWindow.cs">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\XmlNodeWrapper.cs" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\XmlNodeWrapper.cs">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\csharp_Common_Explain.html" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\csharp_Common_Explain.html">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\SamplesApplication.ico" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\SamplesApplication.ico">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\SamplesAbout.resx" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\SamplesAbout.resx">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\SamplesConnect.resx" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\SamplesConnect.resx">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\SamplesInput.resx" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\SamplesInput.resx">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\SamplesListInput.resx" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\SamplesListInput.resx">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\SamplesLogon.resx" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\SamplesLogon.resx">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\SamplesPath.resx" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\SamplesPath.resx">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\SamplesWindow.resx" Description="File successfully backed up as E:\RusGidro_BI_Portal\sdk\csharp\Permissions\Backup\SamplesCommon\SamplesWindow.resx">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\SamplesCommon.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SamplesCommon" Source="..\SamplesCommon\SamplesCommon.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Permissions.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Permissions.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Permissions" Source="Permissions.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SamplesCommon" Source="..\SamplesCommon\SamplesCommon.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
