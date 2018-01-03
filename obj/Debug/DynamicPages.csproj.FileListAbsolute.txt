@@ -19,3 +19,10 @@ D:\gmcs\Скрипты для BI SDK\DynamicPages\obj\Debug\ResolveAssemblyRefer
 D:\gmcs\Скрипты для BI SDK\DynamicPages\obj\Debug\DynamicPages.MainDlg.resources
 D:\gmcs\Скрипты для BI SDK\DynamicPages\obj\Debug\DynamicPages.openBiObjDlg.resources
 d:\gmcs\Скрипты для BI SDK\DynamicPages\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\vischenko\Source\Repos\Dynamic\obj\Debug\DynamicPages.csprojResolveAssemblyReference.cache
+C:\Users\vischenko\Source\Repos\Dynamic\obj\Debug\DynamicPages.MainDlg.resources
+C:\Users\vischenko\Source\Repos\Dynamic\obj\Debug\DynamicPages.openBiObjDlg.resources
+C:\Users\vischenko\Source\Repos\Dynamic\obj\Debug\DynamicPages.csproj.GenerateResource.Cache
+C:\Users\vischenko\Source\Repos\Dynamic\obj\Debug\DynamicPages.csproj.CoreCompileInputs.cache
+C:\Users\vischenko\Source\Repos\Dynamic\obj\Debug\DynamicPages.exe
+C:\Users\vischenko\Source\Repos\Dynamic\obj\Debug\DynamicPages.pdb

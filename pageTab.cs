@@ -25,7 +25,7 @@ namespace DynamicPages
 
         public string getIconUrl()
         {
-            string url = "..";
+            string url = "";
             if (this.icon == "")
                 url += "/icons/folder.png";
             else

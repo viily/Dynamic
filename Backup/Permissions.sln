@@ -1,13 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 9.00
-// Licensed Materials - Property of IBM
-// 
-// IBM Cognos Products: DOCS
-// 
-// (C) Copyright IBM Corp. 2005, 2008
-// 
-// US Government Users Restricted Rights - Use, duplication or disclosure restricted by GSA ADP Schedule Contract with
-// IBM Corp.
-# Visual Studio 2005
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permissions", "Permissions.csproj", "{4A09B0F6-5050-412D-887B-6BDA75444559}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamplesCommon", "..\SamplesCommon\SamplesCommon.csproj", "{4A9A2880-8153-47A1-8B85-D5A97005DDED}"
@@ -29,5 +23,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1133260F-2D6F-43D1-83E0-0EDB6CC70084}
 	EndGlobalSection
 EndGlobal

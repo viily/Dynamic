@@ -136,7 +136,7 @@ namespace DynamicPages
             // 
             this.menuItemAbout.Index = 0;
             this.menuItemAbout.Text = "About";
-            this.menuItemAbout.Click += new System.EventHandler(this.menuItemAbout_Click);
+            this.menuItemAbout.Click += new System.EventHandler(this.MenuItemAbout_Click);
             // 
             // goButton
             // 
@@ -145,7 +145,7 @@ namespace DynamicPages
             this.goButton.Size = new System.Drawing.Size(104, 40);
             this.goButton.TabIndex = 2;
             this.goButton.Text = "Go!";
-            this.goButton.Click += new System.EventHandler(this.permissionsButton_Click);
+            this.goButton.Click += new System.EventHandler(this.PermissionsButton_Click);
             // 
             // resultsDisplayWindowLBL
             // 
@@ -156,6 +156,7 @@ namespace DynamicPages
             this.resultsDisplayWindowLBL.TabIndex = 3;
             this.resultsDisplayWindowLBL.TabStop = false;
             this.resultsDisplayWindowLBL.Text = "Results Display Window";
+            this.resultsDisplayWindowLBL.Enter += new System.EventHandler(this.resultsDisplayWindowLBL_Enter);
             // 
             // resultsDisplayWindowRTB
             // 
@@ -165,6 +166,11 @@ namespace DynamicPages
             this.resultsDisplayWindowRTB.Size = new System.Drawing.Size(720, 193);
             this.resultsDisplayWindowRTB.TabIndex = 0;
             this.resultsDisplayWindowRTB.Text = "";
+            this.resultsDisplayWindowRTB.TextChanged += new System.EventHandler(this.resultsDisplayWindowRTB_TextChanged);
+            // 
+            // openExelFile
+            // 
+            this.openExelFile.FileOk += new System.ComponentModel.CancelEventHandler(this.openExelFile_FileOk);
             // 
             // tbReport
             // 
@@ -172,6 +178,7 @@ namespace DynamicPages
             this.tbReport.Name = "tbReport";
             this.tbReport.Size = new System.Drawing.Size(517, 20);
             this.tbReport.TabIndex = 4;
+            this.tbReport.TextChanged += new System.EventHandler(this.tbReport_TextChanged);
             // 
             // btOpenReport
             // 
@@ -267,15 +274,17 @@ namespace DynamicPages
 			this.Close();
 		}
 
-		private void menuItemAbout_Click(object sender, System.EventArgs e)
+		private void MenuItemAbout_Click(object sender, System.EventArgs e)
 		{
-			SamplesAbout about = new SamplesAbout();
-			about.applicationName = "Обновление страниц портала";
-			about.applicationVersion = "1.1";
-			about.Show();
+            SamplesAbout about = new SamplesAbout
+            {
+                applicationName = "Обновление страниц портала",
+                applicationVersion = "1.1"
+            };
+            about.Show();
 		}
 
-		private void permissionsButton_Click(object sender, System.EventArgs e)
+		private void PermissionsButton_Click(object sender, System.EventArgs e)
 		{
             clearDisplayWindow();
             if (this.tbReport.Text == "")
@@ -475,8 +484,26 @@ namespace DynamicPages
             }
         }
 
+        private void openExelFile_FileOk(object sender, CancelEventArgs e)
+        {
 
-	}
+        }
+
+        private void tbReport_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void resultsDisplayWindowLBL_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void resultsDisplayWindowRTB_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+    }
 
    
 }
